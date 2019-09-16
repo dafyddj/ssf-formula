@@ -103,6 +103,7 @@ ssf:
       - ntp
       - openssh
       - openvpn
+      - packages
       - php
       - postfix
       - postgres
